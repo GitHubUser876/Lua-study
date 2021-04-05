@@ -1,2 +1,2 @@
 # Lua-study
-We study lua here. 
+We study lua here. Bye
